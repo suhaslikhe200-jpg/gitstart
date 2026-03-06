@@ -1,2 +1,3 @@
 # gitstart
-this is the restaurant
+This is the restaurant
+add the html file
